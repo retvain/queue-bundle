@@ -1,5 +1,5 @@
 {
-    "name": "lamoda/queue-bundle",
+    "name": "retvain/queue-bundle",
     "description": "Symfony queue bundle",
     "type": "library",
     "license": "MIT",
